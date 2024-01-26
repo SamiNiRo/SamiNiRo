@@ -8,6 +8,7 @@
 ## My Skills
 - 👨‍💻 I know the programming languages C++, Python, and Assembler.
 - 💻 I can write websites in HTML.
+- 💬 I speak Russian and English.
 - 📹 I also do video editing, design and copywriting.
 
 ## Contact Me
