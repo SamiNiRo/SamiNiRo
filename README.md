@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there, I'm Sergei 👋
+### I am a second-year student majoring in Software Engineering.
 
-<!--
-**SamiNiRo/SamiNiRo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🇷🇺 I'm from Cherepovets, Russia.
+- 📚 I’m currently studying at Cherepovets State University.
+- 🌱 I’m currently learning C++ and Python.
 
-Here are some ideas to get you started:
+## My Skills
+- 👨‍💻 I know the programming languages C++, Python, and Assembler.
+- 💻 I can write websites in HTML.
+- 📹 I also do video editing, design and copywriting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Me
+- ✉ E-mail: markeloff-s-04@yandex.ru
+- ✈ Telegram: @saminiro
