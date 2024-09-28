@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning C++, C# and Python.
 
 ## My Skills
-- 👨‍💻 I know the programming languages C++, C#, Python, and Assembler.
+- 👨‍💻 I know the programming languages C++, C#, Python and Assembler.
 - 💻 I can write websites in HTML.
 - 💬 I speak Russian and English.
 - 📹 I also do video editing, design and copywriting.
