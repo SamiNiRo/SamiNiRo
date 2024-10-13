@@ -1,5 +1,5 @@
 # Hi there, I'm Sergei 👋
-### I am a second-year student majoring in Software Engineering.
+### I am a third-year student majoring in Software Engineering.
 
 - 🏙 I'm from Cherepovets, Russia.
 - 📚 I’m currently studying at Cherepovets State University.
