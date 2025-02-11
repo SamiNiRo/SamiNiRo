@@ -3,10 +3,10 @@
 
 - 🏙 I'm from Cherepovets, Russia.
 - 📚 I’m currently studying at Cherepovets State University.
-- 🌱 I’m currently learning C++, C# and Python.
+- 🌱 I’m currently learning C#, Python and Java.
 
 ## My Skills
-- 👨‍💻 I know the programming languages C++, C#, Python and Assembler.
+- 👨‍💻 I know the programming languages C++, C#, Python, Java and Assembler.
 - 💻 I can write websites in HTML.
 - 💬 I speak Russian and English.
 - 📹 I also do video editing, design and copywriting.
